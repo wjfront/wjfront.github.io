@@ -1,0 +1,10 @@
+body {
+  background-color: skyblue;
+}
+
+* {
+  font-family: "Diphylleia", serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nanum Pen Script", cursive;
+  font-family: "Noto Sans KR", sans-serif;
+}
